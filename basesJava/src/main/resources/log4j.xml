@@ -38,7 +38,7 @@
 		<appender-ref ref="FrontEndFileAppender" />
 	</logger>
 	<root>
-		<priority value="debug" />
+		<priority value="info" />
 		<appender-ref ref="MyConsole" />
 	</root>
 
